@@ -1,80 +1,78 @@
-# MyMicroversePortfolio
 <a name="readme-top"></a>
-<div align="center">
 
-  <img src="https://vagosstudios.com/assets/images/logo-navbar.png" alt="logo" width="140"  height="auto" />
-  <br/>
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-  <h3><b>My Microverse Portfolio</b></h3>
+Modify this file to match your project and remove sections that don't apply.
 
-</div>
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+After you're finished please remove all the comments and instructions!
+-->
 
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Hello-Wolrd ](#-hello-wolrd-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [My Microverse Portfolio] <a name="about-project"></a>
+# 📖 Javed Portfolio <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This is my Poerfolio project from Microverse and its the first step to have our own portfolio.
 
-**[My Microverse Portfolio]** is a project to learn good practices in website UX/ UI design by applying media queries to get our website a nice look and feel on different screen sizes and devices.
+**Mobile** is simply a HTML & CSS based project that develops our understanding with professional portfolio. This also include many configuration
+settings to keep my code clean.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> This projet used for only
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li>HTML5</li>
-    <li>CSS</li>
-    <li>JS</li>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/HTML">HTML</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/CSS">CSS</a></li>
   </ul>
 </details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[Responsiveness]**
-- **[Git flow]**
-- **[Good HTML and CSS practices]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://nelsonaraujo93.github.io/MyMicroversePortfolio/)
+-   **It is helpful in understanding the basics of a portfolio**
+-   **This project provide modern approach toward the web development.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,23 +88,20 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
+<!-- Example command: ```sh 
  gem install rails
 ```
  -->
 
 ### Setup
 
-In order to run this project you need: https://github.com/NelsonAraujo93/MyMicroversePortfolio.git
+Clone this repository to your desired folder:
 
 <!--
 Example commands:
 
 ```sh
-  cd my-folder
+  cd portfolio-folder
   git clone git@github.com:myaccount/my-project.git
 ```
 --->
@@ -119,7 +114,7 @@ Install this project with:
 Example command:
 
 ```sh
-  cd my-project
+  cd Hello-project
   gem install
 ```
 --->
@@ -150,8 +145,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
-
+https://javed-shahbaz.github.io/Desktop-portfolio/
 <!--
 Example:
 
@@ -166,23 +160,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Javed Shahbaz**
 
-👤 **Nelson Araujo**
-
-- GitHub: [@NelsonAraujo93](https://github.com/NelsonAraujo93)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[JavaScript (Functions)]**
-- [ ] **[Animations]**
-- [ ] **[JS linters]**
+-   GitHub: [https://github.com/Javed-Shahbaz)
+-   Twitter: [https://twitter.com/javedshahbaz007)
+-   LinkedIn: [https://www.linkedin.com/in/javed-shahbaz)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -192,7 +174,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).](https://github.com/NelsonAraujo93/MyMicroversePortfolio/issues/7)
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,35 +182,7 @@ Feel free to check the [issues page](../../issues/).](https://github.com/NelsonA
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project take the time to give feedback, I will appreciate it.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank Microverse for giving me the chance to improve my coding.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **What is this for?**
-
-  - This is a Microverse portfolio activity to help us learn how to create a nice portfolio and responsive website.
-
-- **Can i copy this project?**
-
-  - Your welcome, copy this project and let me know if you need something.
+If you like this project please star in here on Github
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -238,7 +192,4 @@ I would like to thank Microverse for giving me the chance to improve my coding.
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-

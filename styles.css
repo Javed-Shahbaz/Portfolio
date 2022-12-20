@@ -100,7 +100,7 @@ body {
 }
 
 .header-image {
-  background: url('./assets/image_geometry_1.png');
+  background: url('./images/image_geometry_1.png');
   height: 74px;
   background-size: contain;
   background-repeat: no-repeat;
@@ -108,7 +108,7 @@ body {
 }
 
 .top-image {
-  background: url('./assets/image_geometry_menu_1.png');
+  background: url('./images/image_geometry_menu_1.png');
   height: 114px;
   background-size: contain;
   background-repeat: no-repeat;
@@ -116,7 +116,7 @@ body {
 }
 
 .bottom-image {
-  background: url('./assets/image_geometry_menu_2.png');
+  background: url('./images/image_geometry_menu_2.png');
   height: 150px;
   background-size: contain;
   background-repeat: no-repeat;
@@ -124,7 +124,7 @@ body {
 }
 
 .deco-image {
-  background: url('./assets/image_geometry_2.png');
+  background: url('./images/image_geometry_2.png');
   height: 160px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -350,18 +350,18 @@ p {
 }
 
 .btn-arrow-icon {
-  background: url('./assets/ic_arrow_right.svg');
+  background: url('./images/ic_arrow_right.svg');
   height: 25px;
   width: 25px;
   transition: all 250ms ease-in-out;
 }
 
 .card-btn:hover .btn-arrow-icon {
-  background: url('./assets/ic_arrow_right_black.svg');
+  background: url('./images/ic_arrow_right_black.svg');
 }
 
 .btn-download-icon {
-  background: url('./assets/ic_download.svg');
+  background: url('./images/ic_download.svg');
   height: 25px;
   width: 26px;
   object-fit: contain;
@@ -369,7 +369,7 @@ p {
 }
 
 .main-btn:hover .btn-download-icon {
-  background: url('./assets/ic_download_black.svg');
+  background: url('./images/ic_download_black.svg');
 }
 
 .about-mobile {
@@ -436,17 +436,17 @@ p {
 }
 
 .hashtag-icon {
-  background: url('./assets/ic_languages_mob.png');
+  background: url('./images/ic_languages_mob.png');
 }
 
 .square-icon {
-  background: url('./assets/ic_framework.svg');
+  background: url('./images/ic_framework.svg');
   width: 96px;
   height: 96px;
 }
 
 .ligthbulb-icon {
-  background: url('./assets/ic_skills.svg');
+  background: url('./images/ic_skills.svg');
 }
 
 h2#contact-form-haeder {
@@ -572,20 +572,20 @@ section.footer-m {
 .btn-footer-icon {
   width: 25px;
   height: 25px;
-  background: url('./assets/ic_link_teal.svg');
+  background: url('./images/ic_link_teal.svg');
   background-repeat: no-repeat;
   background-size: cover;
   transition: all 250ms ease-in-out;
 }
 
 .footer-btn:active .btn-footer-icon {
-  background: url('./assets/ic_link_teal_active.svg');
+  background: url('./images/ic_link_teal_active.svg');
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .footer-btn:hover .btn-footer-icon {
-  background: url('./assets/ic_link_teal_active.svg');
+  background: url('./images/ic_link_teal_active.svg');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -646,7 +646,7 @@ section.footer-m {
 
   .deco-image.full-width {
     flex: 1 0 50%;
-    background: url('./assets/image-geometry_1.svg');
+    background: url('./images/image-geometry_1.svg');
     height: 100%;
     width: 100%;
     background-size: cover;
@@ -696,7 +696,7 @@ section.footer-m {
   }
 
   .bottom-about-image {
-    background: url('./assets/image_dots_with_teal.svg');
+    background: url('./images/image_dots_with_teal.svg');
     width: 100%;
     height: auto;
     background-repeat: no-repeat;
@@ -712,7 +712,7 @@ section.footer-m {
     right: 0;
     height: 175px;
     width: 175px;
-    background: url('./assets/image_dots.svg');
+    background: url('./images/image_dots.svg');
   }
 
   .form-header,
@@ -786,7 +786,7 @@ section.footer-m {
   }
 
   .header-image {
-    background: url('./assets/image-geometry_6.svg');
+    background: url('./images/image-geometry_6.svg');
     height: 350px;
     width: 263px;
     position: absolute;
@@ -795,7 +795,7 @@ section.footer-m {
   }
 
   .bottom-form-image {
-    background: url('./assets/image-geometry_7.svg');
+    background: url('./images/image-geometry_7.svg');
     position: absolute;
     width: 350px;
     height: 350px;
@@ -827,7 +827,7 @@ section.footer-m {
   }
 
   .works-dots {
-    background: url(./assets/image_dots.svg);
+    background: url(./images/image_dots.svg);
     width: 160px;
     height: 160px;
   }
@@ -898,7 +898,7 @@ section.footer-m {
 
   .works-mid-container {
     display: flex;
-    background: url('./assets/works-bg.svg');
+    background: url('./images/works-bg.svg');
     background-size: 100%;
     background-repeat: no-repeat;
   }
