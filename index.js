@@ -5,20 +5,20 @@ const init = () => {
   const menuContainer = document.getElementById('menu-container');
 
   openBtn.addEventListener('click', () => {
-    menuContainer.style.display = 'flex';
-    openBtn.style.display = 'none';
+    menuContainer.styles.display = 'flex';
+    openBtn.styles.display = 'none';
   });
 
   for (let i = 0; i < menuItems.length; i += 1) {
     menuItems[i].addEventListener('click', () => {
-      menuContainer.style.display = 'none';
-      openBtn.style.display = 'block';
+      menuContainer.styles.display = 'none';
+      openBtn.styles.display = 'block';
     });
   }
 
   closeBtn.addEventListener('click', () => {
-    menuContainer.style.display = 'none';
-    openBtn.style.display = 'block';
+    menuContainer.styles.display = 'none';
+    openBtn.styles.display = 'block';
   });
 };
 
